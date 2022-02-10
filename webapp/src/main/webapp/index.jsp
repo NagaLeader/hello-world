@@ -20,7 +20,8 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-   
+    <h1>Naga</h1>
+    <br>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
